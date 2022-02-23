@@ -1,0 +1,3316 @@
+The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+And you come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body
+And last night you were in my room
+And now my bedsheets smell like you
+Every day discovering something brand new
+I'm in love with your body
+Oh-I-oh-I-oh-I-oh-I
+I'm in love with your body
+Oh-I-oh-I-oh-I-oh-I
+I'm in love with your body
+Oh-I-oh-I-oh-I-oh-I
+I'm in love with your body
+Every day discovering something brand new
+I'm in love with the shape of you
+One week in we let the story begin
+We're going out on our first date
+You and me are thrifty, so go all you can eat
+Fill up your bag and I fill up a plate
+We talk for hours and hours about the sweet and the sour
+And how your family is doing okay
+Leave and get in a taxi, then kiss in the backseat
+Tell the driver make the radio play, and I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body
+And last night you were in my room
+And now my bedsheets smell like you
+Every day discovering something brand new
+I'm in love with your body
+Oh-I-oh-I-oh-I-oh-I
+I'm in love with your body
+Oh-I-oh-I-oh-I-oh-I
+I'm in love with your body
+Oh-I-oh-I-oh-I-oh-I
+I'm in love with your body
+Every day discovering something brand new
+I'm in love with the shape of you
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body
+Last night you were in my room
+And now my bedsheets smell like you
+Every day discovering something brand new
+I'm in love with your body
+Come on, be my baby, come on
+Come on, be my baby, come on
+I'm in love with your body
+Come on, be my baby, come on
+Come on, be my baby, come on
+I'm in love with your body
+Come on, be my baby, come on
+Come on, be my baby, come on
+I'm in love with your body
+Every day discovering something brand new
+I'm in love with the shape of you
+
+             Similarity Index=44.0508 %
+Source 1	=26.7839%
+Source 2	=25.474%
+Source 3	=23.3364%
+Source 4	=21.9349%
+Source 5	=22.0283%
+
+
+number of similar phrases/clauses                1313
+similar phrases/clauses                    sourcefile
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+ the to find a                             1
+ So the                             1
+ is I                             1
+ and my                             1
+ the and                             1
+ you and                             1
+ a just me                             1
+ me I'll                             1
+ it a                             1
+ my the                             1
+ on the                             1
+ to and                             1
+ I'm like                             1
+ you know I                             1
+ your love                             1
+ love like me                             1
+ on my                             1
+ I may                             1
+ don't me                             1
+ not much                             1
+ on my                             1
+ and that                             1
+ on me                             1
+ on my                             1
+ on my                             1
+ I'm love                             1
+ the of you                             1
+ and like a                             1
+ do my heart is                             1
+ I'm love                             1
+ your night you                             1
+ my my                             1
+ like you Every                             1
+ I'm love                             1
+ your I'm                             1
+ love your                             1
+ I'm love                             1
+ your I'm                             1
+ love your                             1
+ Every I'm                             1
+ love the                             1
+ of you                             1
+ let the                             1
+ out on our                             1
+ You and me are                             1
+ so you can                             1
+ your and I                             1
+ a and                             1
+ the and the                             1
+ your is                             1
+ and a                             1
+ the the                             1
+ the and I'm                             1
+ like you know I                             1
+ your love                             1
+ love like me                             1
+ on my                             1
+ I may                             1
+ don't me                             1
+ not much                             1
+ on my                             1
+ and that                             1
+ on me                             1
+ on my                             1
+ on my                             1
+ I'm love                             1
+ the of you                             1
+ and like a                             1
+ do my heart is                             1
+ I'm love                             1
+ your night you                             1
+ my my                             1
+ like you Every                             1
+ I'm love                             1
+ your I'm                             1
+ love your                             1
+ I'm love                             1
+ your I'm                             1
+ love your                             1
+ Every I'm                             1
+ love the                             1
+ of you                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on I'm                             1
+ love the                             1
+ of you                             1
+ and like a                             1
+ do my heart is                             1
+ I'm love                             1
+ your night you                             1
+ my my                             1
+ like you Every                             1
+ I'm love                             1
+ your my                             1
+ on my                             1
+ on I'm                             1
+ love your                             1
+ my on                             1
+ my on I'm                             1
+ love your                             1
+ my on                             1
+ my on I'm                             1
+ love your                             1
+ Every I'm                             1
+ love the                             1
+
+
+ The club                             2
+ the place to                             2
+ a the                             2
+ is I go                             2
+ and my                             2
+ the and then                             2
+ slow And you                             2
+ over and                             2
+ up a                             2
+ with just me And                             2
+ me I'll give it a                             2
+ now my                             2
+ the on the                             2
+ And then                             2
+ to and now I'm singing like                             2
+ you know I want your                             2
+ for like me                             2
+ on my                             2
+ I be                             2
+ me on my                             2
+ and that                             2
+ on me                             2
+ on my                             2
+ on my                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ and pull like a                             2
+ my is                             2
+ I'm in                             2
+ with your                             2
+ And you                             2
+ in my                             2
+ And now my                             2
+ like you                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ in the                             2
+ on You and me                             2
+ go all you can                             2
+ up your                             2
+ and I                             2
+ up a                             2
+ for and                             2
+ the and the                             2
+ And your                             2
+ is and get in a                             2
+ then in the                             2
+ the the                             2
+ and I'm singing like                             2
+ you know I want your                             2
+ for like me                             2
+ on my                             2
+ I be                             2
+ me on my                             2
+ and that                             2
+ on me                             2
+ on my                             2
+ on my                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ and pull like a                             2
+ my is                             2
+ I'm in                             2
+ with your                             2
+ And you                             2
+ in my                             2
+ And now my                             2
+ like you                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on I'm in                             2
+ with the                             2
+ of you                             2
+ and pull like a                             2
+ my is                             2
+ I'm in                             2
+ with your                             2
+ you in my                             2
+ And now my                             2
+ like you                             2
+ I'm in                             2
+ with your                             2
+ be my                             2
+ on be my                             2
+ on I'm in                             2
+ with your                             2
+ be my                             2
+ on be my                             2
+ on I'm in                             2
+ with your                             2
+ be my                             2
+ on be my                             2
+ on I'm in                             2
+ with your                             2
+ I'm in                             2
+ with the                             2
+
+
+ the to                             3
+ the is                             3
+ I my                             3
+ at the                             3
+ And you                             3
+ over start up                             3
+ with just me And                             3
+ me now                             3
+ my the                             3
+ on the                             3
+ And start to                             3
+ now I'm                             3
+ you know I want                             3
+ me on                             3
+ my I                             3
+ be don't                             3
+ me not                             3
+ on my                             3
+ that on me                             3
+ on my                             3
+ on my                             3
+ I'm in                             3
+ with the                             3
+ of you                             3
+ my heart is                             3
+ I'm in                             3
+ with And                             3
+ you were in my                             3
+ And now my                             3
+ you new I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with new I'm in                             3
+ with the                             3
+ of you                             3
+ in the                             3
+ going on                             3
+ You me are                             3
+ all you                             3
+ up I                             3
+ up the                             3
+ the And                             3
+ is in                             3
+ in the                             3
+ the the                             3
+ I'm you know I want                             3
+ me on                             3
+ my I                             3
+ be don't                             3
+ me not                             3
+ on my                             3
+ that on me                             3
+ on my                             3
+ on my                             3
+ I'm in                             3
+ with the                             3
+ of you                             3
+ my heart is                             3
+ I'm in                             3
+ with And                             3
+ you were in my                             3
+ And now my                             3
+ you new I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with new I'm in                             3
+ with the                             3
+ of you                             3
+ be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on I'm in                             3
+ with the                             3
+ of you                             3
+ my heart is                             3
+ I'm in                             3
+ with you were in my                             3
+ And now my                             3
+ you new I'm in                             3
+ with be my                             3
+ on be my                             3
+ on I'm in                             3
+ with be my                             3
+ on be my                             3
+ on I'm in                             3
+ with be my                             3
+ on be my                             3
+ on I'm in                             3
+ with new I'm in                             3
+ with the                             3
+
+
+ The the                             4
+ to a                             4
+ the I                             4
+ and my                             4
+ at the                             4
+ and you                             4
+ and up a                             4
+ me me                             4
+ it a                             4
+ my the                             4
+ the to                             4
+ and I'm                             4
+ like you                             4
+ I your                             4
+ Your was                             4
+ for like me                             4
+ my I                             4
+ be me                             4
+ my and                             4
+ that me                             4
+ my my                             4
+ I'm in                             4
+ the of you                             4
+ and like a                             4
+ my I'm in                             4
+ your last                             4
+ you in my                             4
+ my like you                             4
+ I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ the of you                             4
+ in let the                             4
+ first You and me                             4
+ all you                             4
+ up your                             4
+ and I                             4
+ up a                             4
+ for and                             4
+ the and the                             4
+ your and                             4
+ in a                             4
+ in the                             4
+ the the                             4
+ and I'm                             4
+ like you                             4
+ I your                             4
+ Your was                             4
+ for like me                             4
+ my I                             4
+ be me                             4
+ my and                             4
+ that me                             4
+ my my                             4
+ I'm in                             4
+ the of you                             4
+ and like a                             4
+ my I'm in                             4
+ your last                             4
+ you in my                             4
+ my like you                             4
+ I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ the of you                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ I'm in                             4
+ the of you                             4
+ and like a                             4
+ my I'm in                             4
+ your Last                             4
+ you in my                             4
+ my like you                             4
+ I'm in                             4
+ your be my                             4
+ be my                             4
+ I'm in                             4
+ your be my                             4
+ be my                             4
+ I'm in                             4
+ your be my                             4
+ be my                             4
+ I'm in                             4
+ your I'm in                             4
+
+
+ the place to                             5
+ a So the                             5
+ I and my                             5
+ the and                             5
+ And you                             5
+ and a                             5
+ with me And                             5
+ me give it a                             5
+ my the                             5
+ on the                             5
+ And to                             5
+ and I'm                             5
+ you know I                             5
+ your love                             5
+ love me                             5
+ on my                             5
+ I don't mind me                             5
+ on my                             5
+ and that                             5
+ on me                             5
+ on my                             5
+ on my                             5
+ I'm love with the                             5
+ you and                             5
+ a my                             5
+ I'm love with your                             5
+ And last                             5
+ you my                             5
+ And my                             5
+ you I'm                             5
+ love with your                             5
+ I'm love with your                             5
+ I'm love with your                             5
+ I'm love with your                             5
+ I'm love with the                             5
+ you let the                             5
+ on You and me                             5
+ so all you                             5
+ your and I                             5
+ a and                             5
+ the and the                             5
+ And how your                             5
+ and a                             5
+ kiss the                             5
+ Tell the                             5
+ the and I'm                             5
+ you know I                             5
+ your love                             5
+ love me                             5
+ on my                             5
+ I don't mind me                             5
+ on my                             5
+ and that                             5
+ on me                             5
+ on my                             5
+ on my                             5
+ I'm love with the                             5
+ you and                             5
+ a my                             5
+ I'm love with your                             5
+ And last                             5
+ you my                             5
+ And my                             5
+ you I'm                             5
+ love with your                             5
+ I'm love with your                             5
+ I'm love with your                             5
+ I'm love with your                             5
+ I'm love with the                             5
+ you my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on I'm                             5
+ love with the                             5
+ you and                             5
+ a my                             5
+ I'm love with your                             5
+ you my                             5
+ And my                             5
+ you I'm                             5
+ love with your                             5
+ my baby,                             5
+ on my baby,                             5
+ on I'm                             5
+ love with your                             5
+ my baby,                             5
+ on my baby,                             5
+ on I'm                             5
+ love with your                             5
+ my baby,                             5
+ on my baby,                             5
+ on I'm                             5
+ love with your                             5
+ I'm love with the                             5
+
+
+             Similarity Index=131.644 %
+Source 1	=44.1499%
+Source 2	=48.1626%
+Source 3	=41.5343%
+Source 4	=39.7798%
+Source 5	=41.5987%
+
+
+number of similar phrases/clauses                6388
+similar phrases/clauses                    sourcefile
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+ the to find a                             1
+ So the                             1
+ is I                             1
+ and my                             1
+ the and                             1
+ you and                             1
+ a just me                             1
+ me I'll                             1
+ it a                             1
+ my the                             1
+ on the                             1
+ to and                             1
+ I'm like                             1
+ you know I                             1
+ your love                             1
+ love like me                             1
+ on my                             1
+ I may                             1
+ don't me                             1
+ not much                             1
+ on my                             1
+ and that                             1
+ on me                             1
+ on my                             1
+ on my                             1
+ I'm love                             1
+ the of you                             1
+ and like a                             1
+ do my heart is                             1
+ I'm love                             1
+ your night you                             1
+ my my                             1
+ like you Every                             1
+ I'm love                             1
+ your I'm                             1
+ love your                             1
+ I'm love                             1
+ your I'm                             1
+ love your                             1
+ Every I'm                             1
+ love the                             1
+ of you                             1
+ let the                             1
+ out on our                             1
+ You and me are                             1
+ so you can                             1
+ your and I                             1
+ a and                             1
+ the and the                             1
+ your is                             1
+ and a                             1
+ the the                             1
+ the and I'm                             1
+ like you know I                             1
+ your love                             1
+ love like me                             1
+ on my                             1
+ I may                             1
+ don't me                             1
+ not much                             1
+ on my                             1
+ and that                             1
+ on me                             1
+ on my                             1
+ on my                             1
+ I'm love                             1
+ the of you                             1
+ and like a                             1
+ do my heart is                             1
+ I'm love                             1
+ your night you                             1
+ my my                             1
+ like you Every                             1
+ I'm love                             1
+ your I'm                             1
+ love your                             1
+ I'm love                             1
+ your I'm                             1
+ love your                             1
+ Every I'm                             1
+ love the                             1
+ of you                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on I'm                             1
+ love the                             1
+ of you                             1
+ and like a                             1
+ do my heart is                             1
+ I'm love                             1
+ your night you                             1
+ my my                             1
+ like you Every                             1
+ I'm love                             1
+ your my                             1
+ on my                             1
+ on I'm                             1
+ love your                             1
+ my on                             1
+ my on I'm                             1
+ love your                             1
+ my on                             1
+ my on I'm                             1
+ love your                             1
+ Every I'm                             1
+ love the                             1
+ of you                             1
+ of the to find a                             1
+ So the                             1
+ is I                             1
+ and my                             1
+ the and                             1
+ you and                             1
+ a just me                             1
+ me I'll                             1
+ it a                             1
+ my the                             1
+ on the                             1
+ to and                             1
+ I'm like                             1
+ you know I                             1
+ your love                             1
+ love like me                             1
+ on my                             1
+ I may                             1
+ don't me                             1
+ not much                             1
+ on my                             1
+ and that                             1
+ on me                             1
+ on my                             1
+ on my                             1
+ I'm love                             1
+ the of you                             1
+ and like a                             1
+ do my heart is                             1
+ I'm love                             1
+ your night you                             1
+ my my                             1
+ like you Every                             1
+ I'm love                             1
+ your I'm                             1
+ love your                             1
+ I'm love                             1
+ your I'm                             1
+ love your                             1
+ Every I'm                             1
+ love the                             1
+ of you                             1
+ let the                             1
+ out on our                             1
+ You and me are                             1
+ so you can                             1
+ your and I                             1
+ a and                             1
+ the and the                             1
+ your is                             1
+ and a                             1
+ the the                             1
+ the and I'm                             1
+ like you know I                             1
+ your love                             1
+ love like me                             1
+ on my                             1
+ I may                             1
+ don't me                             1
+ not much                             1
+ on my                             1
+ and that                             1
+ on me                             1
+ on my                             1
+ on my                             1
+ I'm love                             1
+ the of you                             1
+ and like a                             1
+ do my heart is                             1
+ I'm love                             1
+ your night you                             1
+ my my                             1
+ like you Every                             1
+ I'm love                             1
+ your I'm                             1
+ love your                             1
+ I'm love                             1
+ your I'm                             1
+ love your                             1
+ Every I'm                             1
+ love the                             1
+ of you                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on I'm                             1
+ love the                             1
+ of you                             1
+ and like a                             1
+ do my heart is                             1
+ I'm love                             1
+ your night you                             1
+ my my                             1
+ like you Every                             1
+ I'm love                             1
+ your my                             1
+ on my                             1
+ on I'm                             1
+ love your                             1
+ my on                             1
+ my on I'm                             1
+ love your                             1
+ my on                             1
+ my on I'm                             1
+ love your                             1
+ Every I'm                             1
+ love the                             1
+ the to                             1
+ a the                             1
+ is I                             1
+ and my                             1
+ the and                             1
+ you and                             1
+ a just me                             1
+ me I'll                             1
+ it a                             1
+ my the on the                             1
+ to and                             1
+ I'm like                             1
+ you know I                             1
+ your like me                             1
+ on my                             1
+ I me on my                             1
+ and that                             1
+ on me                             1
+ on my                             1
+ on my                             1
+ I'm the                             1
+ of you                             1
+ and like a                             1
+ my is                             1
+ I'm your                             1
+ you my                             1
+ my like you                             1
+ I'm your                             1
+ I'm your                             1
+ I'm your                             1
+ I'm your                             1
+ I'm the                             1
+ of you                             1
+ the on You and me                             1
+ you can                             1
+ your and I                             1
+ a and                             1
+ the and the                             1
+ your is and                             1
+ a the                             1
+ the the                             1
+ and I'm                             1
+ like you know I                             1
+ your like me                             1
+ on my                             1
+ I me on my                             1
+ and that                             1
+ on me                             1
+ on my                             1
+ on my                             1
+ I'm the                             1
+ of you                             1
+ and like a                             1
+ my is                             1
+ I'm your                             1
+ you my                             1
+ my like you                             1
+ I'm your                             1
+ I'm your                             1
+ I'm your                             1
+ I'm your                             1
+ I'm the                             1
+ of you                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on I'm                             1
+ the of you                             1
+ and like a                             1
+ my is                             1
+ I'm your                             1
+ you my                             1
+ my like you                             1
+ I'm your                             1
+ my on                             1
+ my on I'm                             1
+ your my                             1
+ on my                             1
+ on I'm                             1
+ your my                             1
+ on my                             1
+ on I'm                             1
+ your I'm                             1
+ the the to                             1
+ the is                             1
+ I my                             1
+ the you                             1
+ just me                             1
+ me my the                             1
+ on the                             1
+ to I'm                             1
+ you know I                             1
+ me on                             1
+ my I                             1
+ don't me not                             1
+ on my                             1
+ that on me                             1
+ on my                             1
+ on my                             1
+ I'm the                             1
+ of you                             1
+ my heart is                             1
+ I'm you                             1
+ my my                             1
+ you I'm                             1
+ I'm I'm                             1
+ I'm I'm                             1
+ the of you                             1
+ the on                             1
+ You me are                             1
+ you I                             1
+ the the                             1
+ is the                             1
+ the the                             1
+ I'm you know I                             1
+ me on                             1
+ my I                             1
+ don't me not                             1
+ on my                             1
+ that on me                             1
+ on my                             1
+ on my                             1
+ I'm the                             1
+ of you                             1
+ my heart is                             1
+ I'm you                             1
+ my my                             1
+ you I'm                             1
+ I'm I'm                             1
+ I'm I'm                             1
+ the of you                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on                             1
+ my on I'm                             1
+ the of you                             1
+ my heart is                             1
+ I'm you                             1
+ my my                             1
+ you I'm                             1
+ my on                             1
+ my on I'm                             1
+ my on                             1
+ my on I'm                             1
+ my on                             1
+ my on I'm                             1
+ I'm the                             1
+ the to a                             1
+ the I                             1
+ and my                             1
+ the and you                             1
+ and a                             1
+ me me                             1
+ it a                             1
+ my the                             1
+ the to                             1
+ and I'm                             1
+ like you                             1
+ I your                             1
+ like me                             1
+ my I                             1
+ me my and                             1
+ that me                             1
+ my my                             1
+ I'm the of you                             1
+ and like a                             1
+ my I'm                             1
+ your you                             1
+ my my like you                             1
+ I'm your I'm                             1
+ your I'm                             1
+ your I'm                             1
+ your I'm                             1
+ the of you                             1
+ let the                             1
+ You and me                             1
+ you your                             1
+ and I                             1
+ a and                             1
+ the and the                             1
+ your and                             1
+ a the                             1
+ the the                             1
+ and I'm                             1
+ like you                             1
+ I your                             1
+ like me                             1
+ my I                             1
+ me my and                             1
+ that me                             1
+ my my                             1
+ I'm the of you                             1
+ and like a                             1
+ my I'm                             1
+ your you                             1
+ my my like you                             1
+ I'm your I'm                             1
+ your I'm                             1
+ your I'm                             1
+ your I'm                             1
+ the of you                             1
+ my my                             1
+ my my                             1
+ my my                             1
+ my my                             1
+ I'm the of you                             1
+ and like a                             1
+ my I'm                             1
+ your you                             1
+ my my like you                             1
+ I'm your                             1
+ my my                             1
+ I'm your                             1
+ my my                             1
+ I'm your                             1
+ my my                             1
+ I'm your I'm                             1
+ the to                             1
+ a So the                             1
+ I and my                             1
+ the and                             1
+ you and a                             1
+ me me                             1
+ it a                             1
+ my the                             1
+ on the                             1
+ to and I'm                             1
+ you know I                             1
+ your love                             1
+ love me                             1
+ on my                             1
+ I don't                             1
+ me on my                             1
+ and that                             1
+ on me                             1
+ on my                             1
+ on my                             1
+ I'm love                             1
+ the you and                             1
+ a my                             1
+ I'm love                             1
+ your you my                             1
+ my you I'm                             1
+ love your                             1
+ I'm love                             1
+ your I'm love                             1
+ your I'm love                             1
+ your I'm love                             1
+ the you let the                             1
+ on You and me                             1
+ so you                             1
+ your and I                             1
+ a and                             1
+ the and the                             1
+ your and a                             1
+ the the                             1
+ the and I'm                             1
+ you know I                             1
+ your love                             1
+ love me                             1
+ on my                             1
+ I don't                             1
+ me on my                             1
+ and that                             1
+ on me                             1
+ on my                             1
+ on my                             1
+ I'm love                             1
+ the you and                             1
+ a my                             1
+ I'm love                             1
+ your you my                             1
+ my you I'm                             1
+ love your                             1
+ I'm love                             1
+ your I'm love                             1
+ your I'm love                             1
+ your I'm love                             1
+ the you my                             1
+ on my                             1
+ on my                             1
+ on my                             1
+ on my                             1
+ on my                             1
+ on my                             1
+ on my                             1
+ on I'm                             1
+ love the                             1
+ you and                             1
+ a my                             1
+ I'm love                             1
+ your you my                             1
+ my you I'm                             1
+ love your                             1
+ my on my                             1
+ on I'm                             1
+ love your                             1
+ my on my                             1
+ on I'm                             1
+ love your                             1
+ my on my                             1
+ on I'm                             1
+ love your                             1
+ I'm love                             1
+
+
+ The club                             2
+ the place to                             2
+ a the                             2
+ is I go                             2
+ and my                             2
+ the and then                             2
+ slow And you                             2
+ over and                             2
+ up a                             2
+ with just me And                             2
+ me I'll give it a                             2
+ now my                             2
+ the on the                             2
+ And then                             2
+ to and now I'm singing like                             2
+ you know I want your                             2
+ for like me                             2
+ on my                             2
+ I be                             2
+ me on my                             2
+ and that                             2
+ on me                             2
+ on my                             2
+ on my                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ and pull like a                             2
+ my is                             2
+ I'm in                             2
+ with your                             2
+ And you                             2
+ in my                             2
+ And now my                             2
+ like you                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ in the                             2
+ on You and me                             2
+ go all you can                             2
+ up your                             2
+ and I                             2
+ up a                             2
+ for and                             2
+ the and the                             2
+ And your                             2
+ is and get in a                             2
+ then in the                             2
+ the the                             2
+ and I'm singing like                             2
+ you know I want your                             2
+ for like me                             2
+ on my                             2
+ I be                             2
+ me on my                             2
+ and that                             2
+ on me                             2
+ on my                             2
+ on my                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ and pull like a                             2
+ my is                             2
+ I'm in                             2
+ with your                             2
+ And you                             2
+ in my                             2
+ And now my                             2
+ like you                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on I'm in                             2
+ with the                             2
+ of you                             2
+ and pull like a                             2
+ my is                             2
+ I'm in                             2
+ with your                             2
+ you in my                             2
+ And now my                             2
+ like you                             2
+ I'm in                             2
+ with your                             2
+ be my                             2
+ on be my                             2
+ on I'm in                             2
+ with your                             2
+ be my                             2
+ on be my                             2
+ on I'm in                             2
+ with your                             2
+ be my                             2
+ on be my                             2
+ on I'm in                             2
+ with your                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ of the to                             2
+ a the                             2
+ is I                             2
+ and my                             2
+ the and                             2
+ you and                             2
+ a just me                             2
+ me I'll                             2
+ it a                             2
+ my the                             2
+ on the                             2
+ to and                             2
+ I'm like                             2
+ you know I                             2
+ your like me                             2
+ on my                             2
+ I me                             2
+ on my                             2
+ and that                             2
+ on me                             2
+ on my                             2
+ on my                             2
+ I'm the of you                             2
+ and like a                             2
+ my is                             2
+ I'm your                             2
+ you my my                             2
+ like you                             2
+ I'm your I'm                             2
+ your I'm                             2
+ your I'm                             2
+ your I'm                             2
+ the of you                             2
+ the on                             2
+ You and me                             2
+ you can                             2
+ your and I                             2
+ a and                             2
+ the and the                             2
+ your is                             2
+ and a                             2
+ the the                             2
+ the and I'm                             2
+ like you know I                             2
+ your like me                             2
+ on my                             2
+ I me                             2
+ on my                             2
+ and that                             2
+ on me                             2
+ on my                             2
+ on my                             2
+ I'm the of you                             2
+ and like a                             2
+ my is                             2
+ I'm your                             2
+ you my my                             2
+ like you                             2
+ I'm your I'm                             2
+ your I'm                             2
+ your I'm                             2
+ your I'm                             2
+ the of you                             2
+ my on                             2
+ my on                             2
+ my on                             2
+ my on                             2
+ my on                             2
+ my on                             2
+ my on                             2
+ my on I'm                             2
+ the of you                             2
+ and like a                             2
+ my is                             2
+ I'm your                             2
+ you my my                             2
+ like you                             2
+ I'm your my                             2
+ on my                             2
+ on I'm                             2
+ your my on                             2
+ my on I'm                             2
+ your my on                             2
+ my on I'm                             2
+ your I'm                             2
+ the The club                             2
+ the place to                             2
+ a the                             2
+ is I go                             2
+ and my                             2
+ the and then                             2
+ slow And you                             2
+ over and                             2
+ up a                             2
+ with just me And                             2
+ me I'll give it a                             2
+ now my                             2
+ the on the                             2
+ And then                             2
+ to and now I'm singing like                             2
+ you know I want your                             2
+ for like me                             2
+ on my                             2
+ I be                             2
+ me on my                             2
+ and that                             2
+ on me                             2
+ on my                             2
+ on my                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ and pull like a                             2
+ my is                             2
+ I'm in                             2
+ with your                             2
+ And you                             2
+ in my                             2
+ And now my                             2
+ like you                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ in the                             2
+ on You and me                             2
+ go all you can                             2
+ up your                             2
+ and I                             2
+ up a                             2
+ for and                             2
+ the and the                             2
+ And your                             2
+ is and get in a                             2
+ then in the                             2
+ the the                             2
+ and I'm singing like                             2
+ you know I want your                             2
+ for like me                             2
+ on my                             2
+ I be                             2
+ me on my                             2
+ and that                             2
+ on me                             2
+ on my                             2
+ on my                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ and pull like a                             2
+ my is                             2
+ I'm in                             2
+ with your                             2
+ And you                             2
+ in my                             2
+ And now my                             2
+ like you                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with your                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on I'm in                             2
+ with the                             2
+ of you                             2
+ and pull like a                             2
+ my is                             2
+ I'm in                             2
+ with your                             2
+ you in my                             2
+ And now my                             2
+ like you                             2
+ I'm in                             2
+ with your                             2
+ be my                             2
+ on be my                             2
+ on I'm in                             2
+ with your                             2
+ be my                             2
+ on be my                             2
+ on I'm in                             2
+ with your                             2
+ be my                             2
+ on be my                             2
+ on I'm in                             2
+ with your                             2
+ I'm in                             2
+ with the                             2
+ the to                             2
+ the is                             2
+ I my                             2
+ the And you                             2
+ over up                             2
+ with just me And                             2
+ me now                             2
+ my the                             2
+ on the                             2
+ And to                             2
+ now I'm                             2
+ you know I want                             2
+ me on                             2
+ my I                             2
+ be me                             2
+ on my                             2
+ that on me                             2
+ on my                             2
+ on my                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ my is                             2
+ I'm in                             2
+ with And                             2
+ you in my                             2
+ And now my                             2
+ you I'm in                             2
+ with I'm in                             2
+ with I'm in                             2
+ with I'm in                             2
+ with I'm in                             2
+ with the                             2
+ of you                             2
+ in the                             2
+ on You me                             2
+ all you                             2
+ up I                             2
+ up the                             2
+ the And                             2
+ is in                             2
+ in the                             2
+ the the                             2
+ I'm you know I want                             2
+ me on                             2
+ my I                             2
+ be me                             2
+ on my                             2
+ that on me                             2
+ on my                             2
+ on my                             2
+ I'm in                             2
+ with the                             2
+ of you                             2
+ my is                             2
+ I'm in                             2
+ with And                             2
+ you in my                             2
+ And now my                             2
+ you I'm in                             2
+ with I'm in                             2
+ with I'm in                             2
+ with I'm in                             2
+ with I'm in                             2
+ with the                             2
+ of you                             2
+ be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on be my                             2
+ on I'm in                             2
+ with the                             2
+ of you                             2
+ my is                             2
+ I'm in                             2
+ with you                             2
+ in my                             2
+ And now my                             2
+ you I'm in                             2
+ with be my                             2
+ on be my                             2
+ on I'm in                             2
+ with be my                             2
+ on be my                             2
+ on I'm in                             2
+ with be my                             2
+ on be my                             2
+ on I'm in                             2
+ with I'm in                             2
+ with the                             2
+ The the                             2
+ to a                             2
+ the I                             2
+ and my                             2
+ the and you                             2
+ and up a                             2
+ me me                             2
+ it a                             2
+ my the                             2
+ the to                             2
+ and I'm                             2
+ like you                             2
+ I your                             2
+ for like me                             2
+ my I                             2
+ be me                             2
+ my and                             2
+ that me                             2
+ my my                             2
+ I'm in                             2
+ the of you                             2
+ and like a                             2
+ my I'm in                             2
+ your you in my                             2
+ my like you                             2
+ I'm in                             2
+ your I'm in                             2
+ your I'm in                             2
+ your I'm in                             2
+ your I'm in                             2
+ the of you                             2
+ in the                             2
+ You and me                             2
+ all you                             2
+ up your                             2
+ and I                             2
+ up a                             2
+ for and                             2
+ the and the                             2
+ your and                             2
+ in a                             2
+ in the                             2
+ the the                             2
+ and I'm                             2
+ like you                             2
+ I your                             2
+ for like me                             2
+ my I                             2
+ be me                             2
+ my and                             2
+ that me                             2
+ my my                             2
+ I'm in                             2
+ the of you                             2
+ and like a                             2
+ my I'm in                             2
+ your you in my                             2
+ my like you                             2
+ I'm in                             2
+ your I'm in                             2
+ your I'm in                             2
+ your I'm in                             2
+ your I'm in                             2
+ the of you                             2
+ be my                             2
+ be my                             2
+ be my                             2
+ be my                             2
+ be my                             2
+ be my                             2
+ be my                             2
+ be my                             2
+ I'm in                             2
+ the of you                             2
+ and like a                             2
+ my I'm in                             2
+ your you in my                             2
+ my like you                             2
+ I'm in                             2
+ your be my                             2
+ be my                             2
+ I'm in                             2
+ your be my                             2
+ be my                             2
+ I'm in                             2
+ your be my                             2
+ be my                             2
+ I'm in                             2
+ your I'm in                             2
+ the place to                             2
+ a the                             2
+ I and my                             2
+ the and                             2
+ And you                             2
+ and a                             2
+ with me And                             2
+ me give it a                             2
+ my the                             2
+ on the                             2
+ And to                             2
+ and I'm                             2
+ you know I                             2
+ your me                             2
+ on my                             2
+ I me                             2
+ on my                             2
+ and that                             2
+ on me                             2
+ on my                             2
+ on my                             2
+ I'm with the                             2
+ you and                             2
+ a my                             2
+ I'm with your                             2
+ And you my                             2
+ And my                             2
+ you I'm                             2
+ with your                             2
+ I'm with your                             2
+ I'm with your                             2
+ I'm with your                             2
+ I'm with the                             2
+ you the                             2
+ on You and me                             2
+ all you                             2
+ your and I                             2
+ a and                             2
+ the and the                             2
+ And your                             2
+ and a                             2
+ the the                             2
+ the and I'm                             2
+ you know I                             2
+ your me                             2
+ on my                             2
+ I me                             2
+ on my                             2
+ and that                             2
+ on me                             2
+ on my                             2
+ on my                             2
+ I'm with the                             2
+ you and                             2
+ a my                             2
+ I'm with your                             2
+ And you my                             2
+ And my                             2
+ you I'm                             2
+ with your                             2
+ I'm with your                             2
+ I'm with your                             2
+ I'm with your                             2
+ I'm with the                             2
+ you my                             2
+ on my                             2
+ on my                             2
+ on my                             2
+ on my                             2
+ on my                             2
+ on my                             2
+ on my                             2
+ on I'm                             2
+ with the                             2
+ you and                             2
+ a my                             2
+ I'm with your                             2
+ you my                             2
+ And my                             2
+ you I'm                             2
+ with your                             2
+ my on my                             2
+ on I'm                             2
+ with your                             2
+ my on my                             2
+ on I'm                             2
+ with your                             2
+ my on my                             2
+ on I'm                             2
+ with your                             2
+ I'm with the                             2
+
+
+ the to                             3
+ the is                             3
+ I my                             3
+ at the                             3
+ And you                             3
+ over start up                             3
+ with just me And                             3
+ me now                             3
+ my the                             3
+ on the                             3
+ And start to                             3
+ now I'm                             3
+ you know I want                             3
+ me on                             3
+ my I                             3
+ be don't                             3
+ me not                             3
+ on my                             3
+ that on me                             3
+ on my                             3
+ on my                             3
+ I'm in                             3
+ with the                             3
+ of you                             3
+ my heart is                             3
+ I'm in                             3
+ with And                             3
+ you were in my                             3
+ And now my                             3
+ you new I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with new I'm in                             3
+ with the                             3
+ of you                             3
+ in the                             3
+ going on                             3
+ You me are                             3
+ all you                             3
+ up I                             3
+ up the                             3
+ the And                             3
+ is in                             3
+ in the                             3
+ the the                             3
+ I'm you know I want                             3
+ me on                             3
+ my I                             3
+ be don't                             3
+ me not                             3
+ on my                             3
+ that on me                             3
+ on my                             3
+ on my                             3
+ I'm in                             3
+ with the                             3
+ of you                             3
+ my heart is                             3
+ I'm in                             3
+ with And                             3
+ you were in my                             3
+ And now my                             3
+ you new I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with new I'm in                             3
+ with the                             3
+ of you                             3
+ be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on I'm in                             3
+ with the                             3
+ of you                             3
+ my heart is                             3
+ I'm in                             3
+ with you were in my                             3
+ And now my                             3
+ you new I'm in                             3
+ with be my                             3
+ on be my                             3
+ on I'm in                             3
+ with be my                             3
+ on be my                             3
+ on I'm in                             3
+ with be my                             3
+ on be my                             3
+ on I'm in                             3
+ with new I'm in                             3
+ with the                             3
+ of you                             3
+ of the to                             3
+ the is I                             3
+ my the                             3
+ you just me                             3
+ me my the                             3
+ on the                             3
+ to I'm                             3
+ you know I                             3
+ me on my                             3
+ I don't me                             3
+ not on my                             3
+ that on me                             3
+ on my                             3
+ on my                             3
+ I'm the of you                             3
+ my heart is                             3
+ I'm you                             3
+ my my                             3
+ you I'm                             3
+ I'm I'm                             3
+ I'm I'm                             3
+ the of you                             3
+ the on                             3
+ You me are                             3
+ you I                             3
+ the the                             3
+ is the the                             3
+ the I'm                             3
+ you know I                             3
+ me on my                             3
+ I don't me                             3
+ not on my                             3
+ that on me                             3
+ on my                             3
+ on my                             3
+ I'm the of you                             3
+ my heart is                             3
+ I'm you                             3
+ my my                             3
+ you I'm                             3
+ I'm I'm                             3
+ I'm I'm                             3
+ the of you                             3
+ my on                             3
+ my on                             3
+ my on                             3
+ my on                             3
+ my on                             3
+ my on                             3
+ my on                             3
+ my on I'm                             3
+ the of you                             3
+ my heart is                             3
+ I'm you                             3
+ my my                             3
+ you I'm                             3
+ my on my                             3
+ on I'm                             3
+ my on                             3
+ my on I'm                             3
+ my on                             3
+ my on I'm                             3
+ I'm the                             3
+ the to                             3
+ the is I                             3
+ my the                             3
+ And you                             3
+ over up                             3
+ with just me And                             3
+ me now my                             3
+ the on the                             3
+ And to                             3
+ now I'm                             3
+ you know I want                             3
+ me on my                             3
+ I be                             3
+ me on my                             3
+ that on me                             3
+ on my                             3
+ on my                             3
+ I'm in                             3
+ with the                             3
+ of you                             3
+ my is                             3
+ I'm in                             3
+ with And you                             3
+ in my                             3
+ And now my                             3
+ you I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with the                             3
+ of you                             3
+ in the                             3
+ on You                             3
+ me all you                             3
+ up I                             3
+ up the                             3
+ the And                             3
+ is in                             3
+ in the                             3
+ the the                             3
+ I'm you know I want                             3
+ me on my                             3
+ I be                             3
+ me on my                             3
+ that on me                             3
+ on my                             3
+ on my                             3
+ I'm in                             3
+ with the                             3
+ of you                             3
+ my is                             3
+ I'm in                             3
+ with And you                             3
+ in my                             3
+ And now my                             3
+ you I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with the                             3
+ of you                             3
+ be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on I'm in                             3
+ with the                             3
+ of you                             3
+ my is                             3
+ I'm in                             3
+ with you in my                             3
+ And now my                             3
+ you I'm in                             3
+ with be my                             3
+ on be my                             3
+ on I'm in                             3
+ with be my                             3
+ on be my                             3
+ on I'm in                             3
+ with be my                             3
+ on be my                             3
+ on I'm in                             3
+ with I'm in                             3
+ with the                             3
+ the to                             3
+ the is                             3
+ I my                             3
+ at the                             3
+ And you                             3
+ over start up                             3
+ with just me And                             3
+ me now                             3
+ my the                             3
+ on the                             3
+ And start to                             3
+ now I'm                             3
+ you know I want                             3
+ me on                             3
+ my I                             3
+ be don't                             3
+ me not                             3
+ on my                             3
+ that on me                             3
+ on my                             3
+ on my                             3
+ I'm in                             3
+ with the                             3
+ of you                             3
+ my heart is                             3
+ I'm in                             3
+ with And                             3
+ you were in my                             3
+ And now my                             3
+ you new I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with new I'm in                             3
+ with the                             3
+ of you                             3
+ in the                             3
+ going on                             3
+ You me are                             3
+ all you                             3
+ up I                             3
+ up the                             3
+ the And                             3
+ is in                             3
+ in the                             3
+ the the                             3
+ I'm you know I want                             3
+ me on                             3
+ my I                             3
+ be don't                             3
+ me not                             3
+ on my                             3
+ that on me                             3
+ on my                             3
+ on my                             3
+ I'm in                             3
+ with the                             3
+ of you                             3
+ my heart is                             3
+ I'm in                             3
+ with And                             3
+ you were in my                             3
+ And now my                             3
+ you new I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with I'm in                             3
+ with new I'm in                             3
+ with the                             3
+ of you                             3
+ be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on be my                             3
+ on I'm in                             3
+ with the                             3
+ of you                             3
+ my heart is                             3
+ I'm in                             3
+ with you were in my                             3
+ And now my                             3
+ you new I'm in                             3
+ with be my                             3
+ on be my                             3
+ on I'm in                             3
+ with be my                             3
+ on be my                             3
+ on I'm in                             3
+ with be my                             3
+ on be my                             3
+ on I'm in                             3
+ with new I'm in                             3
+ with the                             3
+ the to                             3
+ the I                             3
+ my at the                             3
+ you up                             3
+ me me                             3
+ my the                             3
+ the to                             3
+ I'm you                             3
+ I me                             3
+ my I                             3
+ be me                             3
+ my that me                             3
+ my my                             3
+ I'm in                             3
+ the of you                             3
+ my I'm in                             3
+ you in my                             3
+ my you                             3
+ I'm in                             3
+ I'm in                             3
+ I'm in                             3
+ I'm in                             3
+ I'm in                             3
+ the of you                             3
+ in the                             3
+ You me                             3
+ all you                             3
+ up I                             3
+ up the                             3
+ the in                             3
+ in the                             3
+ the the                             3
+ I'm you                             3
+ I me                             3
+ my I                             3
+ be me                             3
+ my that me                             3
+ my my                             3
+ I'm in                             3
+ the of you                             3
+ my I'm in                             3
+ you in my                             3
+ my you                             3
+ I'm in                             3
+ I'm in                             3
+ I'm in                             3
+ I'm in                             3
+ I'm in                             3
+ the of you                             3
+ be my                             3
+ be my                             3
+ be my                             3
+ be my                             3
+ be my                             3
+ be my                             3
+ be my                             3
+ be my                             3
+ I'm in                             3
+ the of you                             3
+ my I'm in                             3
+ you in my                             3
+ my you                             3
+ I'm in                             3
+ be my                             3
+ be my                             3
+ I'm in                             3
+ be my                             3
+ be my                             3
+ I'm in                             3
+ be my                             3
+ be my                             3
+ I'm in                             3
+ I'm in                             3
+ the to                             3
+ the I                             3
+ my the                             3
+ And you                             3
+ with me And                             3
+ me my the                             3
+ on the                             3
+ And to                             3
+ I'm you know I                             3
+ me on my                             3
+ I don't                             3
+ me on my                             3
+ that on me                             3
+ on my                             3
+ on my                             3
+ I'm with the                             3
+ you my                             3
+ I'm with                             3
+ And you my                             3
+ And my                             3
+ you I'm                             3
+ with I'm                             3
+ with I'm                             3
+ with I'm                             3
+ with I'm                             3
+ with the                             3
+ you the                             3
+ on You                             3
+ me all you                             3
+ I the                             3
+ the And                             3
+ the the                             3
+ the I'm                             3
+ you know I                             3
+ me on my                             3
+ I don't                             3
+ me on my                             3
+ that on me                             3
+ on my                             3
+ on my                             3
+ I'm with the                             3
+ you my                             3
+ I'm with                             3
+ And you my                             3
+ And my                             3
+ you I'm                             3
+ with I'm                             3
+ with I'm                             3
+ with I'm                             3
+ with I'm                             3
+ with the                             3
+ you my                             3
+ on my                             3
+ on my                             3
+ on my                             3
+ on my                             3
+ on my                             3
+ on my                             3
+ on my                             3
+ on I'm                             3
+ with the                             3
+ you my                             3
+ I'm with                             3
+ you my                             3
+ And my                             3
+ you I'm                             3
+ with my                             3
+ on my                             3
+ on I'm                             3
+ with my                             3
+ on my                             3
+ on I'm                             3
+ with my                             3
+ on my                             3
+ on I'm                             3
+ with I'm                             3
+ with the                             3
+
+
+ The the                             4
+ to a                             4
+ the I                             4
+ and my                             4
+ at the                             4
+ and you                             4
+ and up a                             4
+ me me                             4
+ it a                             4
+ my the                             4
+ the to                             4
+ and I'm                             4
+ like you                             4
+ I your                             4
+ Your was                             4
+ for like me                             4
+ my I                             4
+ be me                             4
+ my and                             4
+ that me                             4
+ my my                             4
+ I'm in                             4
+ the of you                             4
+ and like a                             4
+ my I'm in                             4
+ your last                             4
+ you in my                             4
+ my like you                             4
+ I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ the of you                             4
+ in let the                             4
+ first You and me                             4
+ all you                             4
+ up your                             4
+ and I                             4
+ up a                             4
+ for and                             4
+ the and the                             4
+ your and                             4
+ in a                             4
+ in the                             4
+ the the                             4
+ and I'm                             4
+ like you                             4
+ I your                             4
+ Your was                             4
+ for like me                             4
+ my I                             4
+ be me                             4
+ my and                             4
+ that me                             4
+ my my                             4
+ I'm in                             4
+ the of you                             4
+ and like a                             4
+ my I'm in                             4
+ your last                             4
+ you in my                             4
+ my like you                             4
+ I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ the of you                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ I'm in                             4
+ the of you                             4
+ and like a                             4
+ my I'm in                             4
+ your Last                             4
+ you in my                             4
+ my like you                             4
+ I'm in                             4
+ your be my                             4
+ be my                             4
+ I'm in                             4
+ your be my                             4
+ be my                             4
+ I'm in                             4
+ your be my                             4
+ be my                             4
+ I'm in                             4
+ your I'm in                             4
+ the of you                             4
+ of the to                             4
+ a the                             4
+ I and my                             4
+ the and                             4
+ you and                             4
+ a me                             4
+ me it a                             4
+ my the                             4
+ the to and                             4
+ I'm like                             4
+ you I                             4
+ your like me                             4
+ my I                             4
+ me my                             4
+ and that                             4
+ me my                             4
+ my I'm                             4
+ the of you                             4
+ and like a                             4
+ my I'm                             4
+ your you                             4
+ my my                             4
+ like you                             4
+ I'm your I'm                             4
+ your I'm                             4
+ your I'm                             4
+ your I'm                             4
+ the of you                             4
+ let the                             4
+ You and me                             4
+ you your and I                             4
+ a and                             4
+ the and the                             4
+ your and a                             4
+ the the                             4
+ the and I'm                             4
+ like you                             4
+ I your                             4
+ like me                             4
+ my I                             4
+ me my                             4
+ and that                             4
+ me my                             4
+ my I'm                             4
+ the of you                             4
+ and like a                             4
+ my I'm                             4
+ your you                             4
+ my my                             4
+ like you                             4
+ I'm your I'm                             4
+ your I'm                             4
+ your I'm                             4
+ your I'm                             4
+ the of you                             4
+ my my                             4
+ my my                             4
+ my my                             4
+ my my                             4
+ I'm the                             4
+ of you                             4
+ and like a                             4
+ my I'm                             4
+ your you                             4
+ my my                             4
+ like you                             4
+ I'm your my                             4
+ my I'm                             4
+ your my                             4
+ my I'm                             4
+ your my                             4
+ my I'm                             4
+ your I'm                             4
+ the The                             4
+ the to                             4
+ a the                             4
+ I and my                             4
+ the and                             4
+ you and                             4
+ up a                             4
+ me me                             4
+ it a                             4
+ my the                             4
+ the to and                             4
+ I'm like                             4
+ you I                             4
+ your for like me                             4
+ my I be                             4
+ me my                             4
+ and that                             4
+ me my                             4
+ my I'm in                             4
+ the of you                             4
+ and like a                             4
+ my I'm in                             4
+ your you                             4
+ in my                             4
+ my like you                             4
+ I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ the of you                             4
+ in the                             4
+ You and me                             4
+ all you                             4
+ up your                             4
+ and I                             4
+ up a                             4
+ for and                             4
+ the and the                             4
+ your and                             4
+ in a                             4
+ in the                             4
+ the the                             4
+ and I'm                             4
+ like you                             4
+ I your                             4
+ for like me                             4
+ my I be                             4
+ me my                             4
+ and that                             4
+ me my                             4
+ my I'm in                             4
+ the of you                             4
+ and like a                             4
+ my I'm in                             4
+ your you                             4
+ in my                             4
+ my like you                             4
+ I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ the of you                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ I'm in                             4
+ the of you                             4
+ and like a                             4
+ my I'm in                             4
+ your you in my                             4
+ my like you                             4
+ I'm in                             4
+ your be my                             4
+ be my                             4
+ I'm in                             4
+ your be my                             4
+ be my                             4
+ I'm in                             4
+ your be my                             4
+ be my                             4
+ I'm in                             4
+ your I'm in                             4
+ the the to                             4
+ the I my                             4
+ at the                             4
+ you up                             4
+ me me                             4
+ my the                             4
+ the to                             4
+ I'm you                             4
+ I me                             4
+ my I                             4
+ be me                             4
+ my that                             4
+ me my                             4
+ my I'm in                             4
+ the of you                             4
+ my I'm in                             4
+ you in my                             4
+ my you                             4
+ I'm in                             4
+ I'm in                             4
+ I'm in                             4
+ I'm in                             4
+ I'm in                             4
+ the of you                             4
+ in the                             4
+ You me                             4
+ all you                             4
+ up I                             4
+ up the                             4
+ the in                             4
+ in the                             4
+ the the                             4
+ I'm you                             4
+ I me                             4
+ my I                             4
+ be me                             4
+ my that                             4
+ me my                             4
+ my I'm in                             4
+ the of you                             4
+ my I'm in                             4
+ you in my                             4
+ my you                             4
+ I'm in                             4
+ I'm in                             4
+ I'm in                             4
+ I'm in                             4
+ I'm in                             4
+ the of you                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ I'm in                             4
+ the of you                             4
+ my I'm in                             4
+ you in my                             4
+ my you                             4
+ I'm in                             4
+ be my                             4
+ be my                             4
+ I'm in                             4
+ be my                             4
+ be my                             4
+ I'm in                             4
+ be my                             4
+ be my                             4
+ I'm in                             4
+ I'm in                             4
+ the The the                             4
+ to a                             4
+ the I                             4
+ and my                             4
+ at the                             4
+ and you                             4
+ and up a                             4
+ me me                             4
+ it a                             4
+ my the                             4
+ the to                             4
+ and I'm                             4
+ like you                             4
+ I your                             4
+ Your was                             4
+ for like me                             4
+ my I                             4
+ be me                             4
+ my and                             4
+ that me                             4
+ my my                             4
+ I'm in                             4
+ the of you                             4
+ and like a                             4
+ my I'm in                             4
+ your last                             4
+ you in my                             4
+ my like you                             4
+ I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ the of you                             4
+ in let the                             4
+ first You and me                             4
+ all you                             4
+ up your                             4
+ and I                             4
+ up a                             4
+ for and                             4
+ the and the                             4
+ your and                             4
+ in a                             4
+ in the                             4
+ the the                             4
+ and I'm                             4
+ like you                             4
+ I your                             4
+ Your was                             4
+ for like me                             4
+ my I                             4
+ be me                             4
+ my and                             4
+ that me                             4
+ my my                             4
+ I'm in                             4
+ the of you                             4
+ and like a                             4
+ my I'm in                             4
+ your last                             4
+ you in my                             4
+ my like you                             4
+ I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ your I'm in                             4
+ the of you                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ be my                             4
+ I'm in                             4
+ the of you                             4
+ and like a                             4
+ my I'm in                             4
+ your Last                             4
+ you in my                             4
+ my like you                             4
+ I'm in                             4
+ your be my                             4
+ be my                             4
+ I'm in                             4
+ your be my                             4
+ be my                             4
+ I'm in                             4
+ your be my                             4
+ be my                             4
+ I'm in                             4
+ your I'm in                             4
+ the to                             4
+ a the                             4
+ I and my                             4
+ the and                             4
+ you and a                             4
+ me me                             4
+ it a                             4
+ my the                             4
+ the to                             4
+ and I'm                             4
+ you I                             4
+ your me                             4
+ my I                             4
+ me my                             4
+ and that                             4
+ me my                             4
+ my I'm                             4
+ the you and                             4
+ a my                             4
+ I'm your                             4
+ last you my                             4
+ my you I'm                             4
+ your I'm                             4
+ your I'm                             4
+ your I'm                             4
+ your I'm                             4
+ the you let the                             4
+ You and me                             4
+ all you                             4
+ your and I                             4
+ a and                             4
+ the and the                             4
+ your and a                             4
+ the the                             4
+ the and I'm                             4
+ you I                             4
+ your me                             4
+ my I                             4
+ me my                             4
+ and that                             4
+ me my                             4
+ my I'm                             4
+ the you and                             4
+ a my                             4
+ I'm your                             4
+ last you my                             4
+ my you I'm                             4
+ your I'm                             4
+ your I'm                             4
+ your I'm                             4
+ your I'm                             4
+ the you my                             4
+ my my                             4
+ my my                             4
+ my my                             4
+ my I'm                             4
+ the you and                             4
+ a my                             4
+ I'm your                             4
+ you my                             4
+ my you I'm                             4
+ your my                             4
+ my I'm                             4
+ your my                             4
+ my I'm                             4
+ your my                             4
+ my I'm                             4
+ your I'm                             4
+
+
+ the place to                             5
+ a So the                             5
+ I and my                             5
+ the and                             5
+ And you                             5
+ and a                             5
+ with me And                             5
+ me give it a                             5
+ my the                             5
+ on the                             5
+ And to                             5
+ and I'm                             5
+ you know I                             5
+ your love                             5
+ love me                             5
+ on my                             5
+ I don't mind me                             5
+ on my                             5
+ and that                             5
+ on me                             5
+ on my                             5
+ on my                             5
+ I'm love with the                             5
+ you and                             5
+ a my                             5
+ I'm love with your                             5
+ And last                             5
+ you my                             5
+ And my                             5
+ you I'm                             5
+ love with your                             5
+ I'm love with your                             5
+ I'm love with your                             5
+ I'm love with your                             5
+ I'm love with the                             5
+ you let the                             5
+ on You and me                             5
+ so all you                             5
+ your and I                             5
+ a and                             5
+ the and the                             5
+ And how your                             5
+ and a                             5
+ kiss the                             5
+ Tell the                             5
+ the and I'm                             5
+ you know I                             5
+ your love                             5
+ love me                             5
+ on my                             5
+ I don't mind me                             5
+ on my                             5
+ and that                             5
+ on me                             5
+ on my                             5
+ on my                             5
+ I'm love with the                             5
+ you and                             5
+ a my                             5
+ I'm love with your                             5
+ And last                             5
+ you my                             5
+ And my                             5
+ you I'm                             5
+ love with your                             5
+ I'm love with your                             5
+ I'm love with your                             5
+ I'm love with your                             5
+ I'm love with the                             5
+ you my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on I'm                             5
+ love with the                             5
+ you and                             5
+ a my                             5
+ I'm love with your                             5
+ you my                             5
+ And my                             5
+ you I'm                             5
+ love with your                             5
+ my baby,                             5
+ on my baby,                             5
+ on I'm                             5
+ love with your                             5
+ my baby,                             5
+ on my baby,                             5
+ on I'm                             5
+ love with your                             5
+ my baby,                             5
+ on my baby,                             5
+ on I'm                             5
+ love with your                             5
+ I'm love with the                             5
+ you the to                             5
+ a So the                             5
+ I and my                             5
+ the and                             5
+ you and                             5
+ a me                             5
+ me it a                             5
+ my the                             5
+ on the                             5
+ to and                             5
+ I'm you know I                             5
+ your love                             5
+ love me                             5
+ on my                             5
+ I don't me                             5
+ on my                             5
+ and that                             5
+ on me                             5
+ on my                             5
+ on my                             5
+ I'm love                             5
+ the you                             5
+ and a                             5
+ my I'm love                             5
+ your you                             5
+ my my                             5
+ you I'm love                             5
+ your I'm                             5
+ love your                             5
+ I'm love                             5
+ your I'm                             5
+ love your                             5
+ I'm love the                             5
+ you let the                             5
+ on You and me                             5
+ so you                             5
+ your and I                             5
+ a and                             5
+ the and the                             5
+ your and a                             5
+ the the                             5
+ the and I'm                             5
+ you know I                             5
+ your love                             5
+ love me                             5
+ on my                             5
+ I don't me                             5
+ on my                             5
+ and that                             5
+ on me                             5
+ on my                             5
+ on my                             5
+ I'm love                             5
+ the you                             5
+ and a                             5
+ my I'm love                             5
+ your you                             5
+ my my                             5
+ you I'm love                             5
+ your I'm                             5
+ love your                             5
+ I'm love                             5
+ your I'm                             5
+ love your                             5
+ I'm love the                             5
+ you my on                             5
+ my on                             5
+ my on                             5
+ my on                             5
+ my on                             5
+ my on                             5
+ my on                             5
+ my on I'm                             5
+ love the                             5
+ you and                             5
+ a my                             5
+ I'm love                             5
+ your you                             5
+ my my                             5
+ you I'm love                             5
+ your my                             5
+ on my                             5
+ on I'm                             5
+ love your                             5
+ my on                             5
+ my on I'm                             5
+ love your                             5
+ my on                             5
+ my on I'm                             5
+ love your                             5
+ I'm love the                             5
+ the place to                             5
+ a the                             5
+ I and my                             5
+ the and                             5
+ And you                             5
+ and a                             5
+ with me And                             5
+ me give it a                             5
+ my the on the                             5
+ And to and                             5
+ I'm you know I                             5
+ your me                             5
+ on my                             5
+ I me on my                             5
+ and that                             5
+ on me                             5
+ on my                             5
+ on my                             5
+ I'm with the                             5
+ you and                             5
+ a my                             5
+ I'm with your                             5
+ And you                             5
+ my And                             5
+ my you                             5
+ I'm with your                             5
+ I'm with your                             5
+ I'm with your                             5
+ I'm with your                             5
+ I'm with the                             5
+ you the                             5
+ on You and me                             5
+ all you                             5
+ your and I                             5
+ a and                             5
+ the and the                             5
+ And your                             5
+ and a                             5
+ the the the                             5
+ and I'm                             5
+ you know I                             5
+ your me                             5
+ on my                             5
+ I me on my                             5
+ and that                             5
+ on me                             5
+ on my                             5
+ on my                             5
+ I'm with the                             5
+ you and                             5
+ a my                             5
+ I'm with your                             5
+ And you                             5
+ my And                             5
+ my you                             5
+ I'm with your                             5
+ I'm with your                             5
+ I'm with your                             5
+ I'm with your                             5
+ I'm with the                             5
+ you my                             5
+ on my                             5
+ on my                             5
+ on my                             5
+ on my                             5
+ on my                             5
+ on my                             5
+ on my                             5
+ on I'm                             5
+ with the                             5
+ you and                             5
+ a my                             5
+ I'm with your                             5
+ you my                             5
+ And my                             5
+ you I'm                             5
+ with your                             5
+ my on                             5
+ my on I'm                             5
+ with your                             5
+ my on                             5
+ my on I'm                             5
+ with your                             5
+ my on                             5
+ my on I'm                             5
+ with your                             5
+ I'm with the                             5
+ the to                             5
+ the I my                             5
+ the And you                             5
+ with me And                             5
+ me my the                             5
+ on the                             5
+ And to                             5
+ I'm you know I                             5
+ me on                             5
+ my I                             5
+ don't me                             5
+ on my                             5
+ that on me                             5
+ on my                             5
+ on my                             5
+ I'm with the                             5
+ you my                             5
+ I'm with And                             5
+ you my                             5
+ And my                             5
+ you I'm                             5
+ with I'm                             5
+ with I'm                             5
+ with I'm                             5
+ with I'm                             5
+ with the                             5
+ you the                             5
+ on You me                             5
+ all you                             5
+ I the                             5
+ the And                             5
+ the the the                             5
+ I'm you know I                             5
+ me on                             5
+ my I                             5
+ don't me                             5
+ on my                             5
+ that on me                             5
+ on my                             5
+ on my                             5
+ I'm with the                             5
+ you my                             5
+ I'm with And                             5
+ you my                             5
+ And my                             5
+ you I'm                             5
+ with I'm                             5
+ with I'm                             5
+ with I'm                             5
+ with I'm                             5
+ with the                             5
+ you my                             5
+ on my                             5
+ on my                             5
+ on my                             5
+ on my                             5
+ on my                             5
+ on my                             5
+ on my                             5
+ on I'm                             5
+ with the                             5
+ you my                             5
+ I'm with you                             5
+ my And                             5
+ my you                             5
+ I'm with                             5
+ my on                             5
+ my on I'm                             5
+ with my                             5
+ on my                             5
+ on I'm                             5
+ with my                             5
+ on my                             5
+ on I'm                             5
+ with I'm                             5
+ with the                             5
+ the to a                             5
+ the I                             5
+ and my                             5
+ the and you                             5
+ and a                             5
+ me me                             5
+ it a                             5
+ my the                             5
+ the to                             5
+ and I'm                             5
+ you I your                             5
+ me my I                             5
+ me my and                             5
+ that me                             5
+ my my                             5
+ I'm the                             5
+ you and                             5
+ a my I'm                             5
+ your last                             5
+ you my                             5
+ my you                             5
+ I'm your I'm                             5
+ your I'm                             5
+ your I'm                             5
+ your I'm                             5
+ the you                             5
+ let the                             5
+ You and me                             5
+ all you                             5
+ your and I                             5
+ a and                             5
+ the and the                             5
+ your and                             5
+ a the                             5
+ the the                             5
+ and I'm                             5
+ you I your                             5
+ me my I                             5
+ me my and                             5
+ that me                             5
+ my my                             5
+ I'm the                             5
+ you and                             5
+ a my I'm                             5
+ your last                             5
+ you my                             5
+ my you                             5
+ I'm your I'm                             5
+ your I'm                             5
+ your I'm                             5
+ your I'm                             5
+ the you                             5
+ my my                             5
+ my my                             5
+ my my                             5
+ my my                             5
+ I'm the                             5
+ you and                             5
+ a my I'm                             5
+ your you                             5
+ my my                             5
+ you I'm                             5
+ your my                             5
+ my I'm                             5
+ your my                             5
+ my I'm                             5
+ your my                             5
+ my I'm                             5
+ your I'm                             5
+ the place to                             5
+ a So the                             5
+ I and my                             5
+ the and                             5
+ And you                             5
+ and a                             5
+ with me And                             5
+ me give it a                             5
+ my the                             5
+ on the                             5
+ And to                             5
+ and I'm                             5
+ you know I                             5
+ your love                             5
+ love me                             5
+ on my                             5
+ I don't mind me                             5
+ on my                             5
+ and that                             5
+ on me                             5
+ on my                             5
+ on my                             5
+ I'm love with the                             5
+ you and                             5
+ a my                             5
+ I'm love with your                             5
+ And last                             5
+ you my                             5
+ And my                             5
+ you I'm                             5
+ love with your                             5
+ I'm love with your                             5
+ I'm love with your                             5
+ I'm love with your                             5
+ I'm love with the                             5
+ you let the                             5
+ on You and me                             5
+ so all you                             5
+ your and I                             5
+ a and                             5
+ the and the                             5
+ And how your                             5
+ and a                             5
+ kiss the                             5
+ Tell the                             5
+ the and I'm                             5
+ you know I                             5
+ your love                             5
+ love me                             5
+ on my                             5
+ I don't mind me                             5
+ on my                             5
+ and that                             5
+ on me                             5
+ on my                             5
+ on my                             5
+ I'm love with the                             5
+ you and                             5
+ a my                             5
+ I'm love with your                             5
+ And last                             5
+ you my                             5
+ And my                             5
+ you I'm                             5
+ love with your                             5
+ I'm love with your                             5
+ I'm love with your                             5
+ I'm love with your                             5
+ I'm love with the                             5
+ you my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on my baby,                             5
+ on I'm                             5
+ love with the                             5
+ you and                             5
+ a my                             5
+ I'm love with your                             5
+ you my                             5
+ And my                             5
+ you I'm                             5
+ love with your                             5
+ my baby,                             5
+ on my baby,                             5
+ on I'm                             5
+ love with your                             5
+ my baby,                             5
+ on my baby,                             5
+ on I'm                             5
+ love with your                             5
+ my baby,                             5
+ on my baby,                             5
+ on I'm                             5
+ love with your                             5
+ I'm love with the                             5
