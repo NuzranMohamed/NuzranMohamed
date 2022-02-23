@@ -1,0 +1,1658 @@
+Anyway I'm just gonna sing and play
+Um, and I'm gonna play a song that you may know
+That you may know
+You're the light, you're the night
+You're the color of my blood
+You're the cure, you're the pain
+You're the only thing I wanna touch
+Never knew that it could mean so much, so much
+You're the fear, I don't care
+'Cause I've never been so high
+Follow me through the dark
+Let me take you past our satellites
+You can see the world you brought to life, to life
+So love me like you do, lo-lo-love me like you do
+Love me like you do, lo-lo-love me like you do
+Touch me like you do, to-to-touch me like you do
+What are you waiting for?
+Fading in, fading out
+On the edge of paradise
+Every inch of your skin, is a Holy Grail I've gotta find
+Only you can set my heart on fire, on fire
+Yeah, I'll let you set the pace
+'Cause I'm not thinking straight
+My head's spinning around, I can't see clear no more
+Oh, what are you waiting for?
+Love me like you do, lo-lo-love me like you do
+Love me like you do, lo-lo-love me like you do
+Touch me like you do, to-to-touch me like you do, oh
+What are you, what are you waiting for?
+What are you waiting for?
+Oh, I'll let you set the pace
+Oh, 'cause I'm not thinking straight
+Though my head's spinning around, I can't see clear no more
+What are you waiting for?
+Love me like you do, lo-lo-love me like you do (Like you do, oh)
+Oh, love me like you do
+Touch me like you do, to-to-touch me like you do, oh
+Oh, what are you waiting for?
+Love me like you do, lo-lo-love me like you do (Like you do)
+Lo-lo-love me like you do
+Touch me like you do, to-to-touch me like you do, oh
+What are you, what are you waiting for?
+
+             Similarity Index=5.22083 %
+Source 1	=15.7549%
+Source 2	=1.42017%
+Source 3	=17.6692%
+Source 4	=19.3289%
+Source 5	=14.2699%
+
+
+number of similar phrases/clauses                 725
+similar phrases/clauses                    sourcefile
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+ I'm just gonna                             1
+ and and I'm gonna                             1
+ a song that you                             1
+ know you                             1
+ know the                             1
+ the the                             1
+ of my                             1
+ the the                             1
+ the thing I                             1
+ that it                             1
+ the I                             1
+ me through the                             1
+ me you                             1
+ You can see the                             1
+ you to                             1
+ to me like you                             1
+ me like you                             1
+ me like you                             1
+ me like you                             1
+ me like you                             1
+ me like you                             1
+ you the                             1
+ of of your                             1
+ is a                             1
+ you can                             1
+ my on                             1
+ on I'll                             1
+ you the                             1
+ I'm I                             1
+ see no more                             1
+ you me like you                             1
+ me like you                             1
+ me like you                             1
+ me like you                             1
+ me like you                             1
+ me like you                             1
+ you you                             1
+ I'll you                             1
+ the 'cause I'm                             1
+ my I                             1
+ see no more                             1
+ you me like you                             1
+ me like you                             1
+ you me like you                             1
+ me like you                             1
+ me like you                             1
+ you me like you                             1
+ me like you                             1
+ you me like you                             1
+ me like you                             1
+ me like you                             1
+
+
+ I'm just                             2
+ and and I'm                             2
+ a that you may know                             2
+ you may know                             2
+ the the night                             2
+ the of my                             2
+ the the                             2
+ the I                             2
+ that it                             2
+ so so much                             2
+ the I don't                             2
+ so me                             2
+ the me                             2
+ you our                             2
+ You can                             2
+ the you                             2
+ to to                             2
+ So love me like you                             2
+ me like you do                             2
+ me like you                             2
+ me like you do                             2
+ me like you                             2
+ me like you do                             2
+ are you                             2
+ out the                             2
+ of Every                             2
+ of your                             2
+ is a                             2
+ find you can                             2
+ my heart on                             2
+ on I'll let you                             2
+ the I'm not                             2
+ I are you                             2
+ me like you                             2
+ me like you do                             2
+ me like you                             2
+ me like you do                             2
+ me like you                             2
+ me like you                             2
+ are are you                             2
+ are you                             2
+ I'll let you                             2
+ the I'm not                             2
+ my I                             2
+ are you                             2
+ me like you                             2
+ me like you do                             2
+ you love me like you do                             2
+ me like you                             2
+ me like you                             2
+ are you                             2
+ me like you                             2
+ me like you do                             2
+ you me like you do                             2
+ me like you                             2
+ me like you                             2
+ are are you                             2
+
+
+ I'm just                             3
+ I'm that you                             3
+ know you                             3
+ know You're the                             3
+ you're the                             3
+ You're the                             3
+ of my                             3
+ You're the                             3
+ you're the                             3
+ You're the                             3
+ I knew that                             3
+ You're the                             3
+ I don't                             3
+ 'Cause never been                             3
+ me the                             3
+ me you                             3
+ You the                             3
+ you to                             3
+ to me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you What are you                             3
+ the of                             3
+ of is                             3
+ you my heart on                             3
+ on Yeah,                             3
+ you the                             3
+ 'Cause I'm not thinking                             3
+ I what are you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ oh What are you, what are you                             3
+ What are you                             3
+ you the                             3
+ I'm not thinking                             3
+ my I                             3
+ What are you                             3
+ me you                             3
+ me you                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you oh                             3
+ what are you                             3
+ me you                             3
+ me you                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you oh What are you, what are you                             3
+
+
+ I'm and                             4
+ and I'm                             4
+ a that you                             4
+ That you                             4
+ You're the                             4
+ the You're the                             4
+ of my blood You're the                             4
+ the pain You're the                             4
+ I that it could                             4
+ You're the                             4
+ I never                             4
+ me through the                             4
+ me you                             4
+ You the                             4
+ you to life, to                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ you the                             4
+ of of your                             4
+ a you                             4
+ my fire                             4
+ let you                             4
+ the I'm                             4
+ My I                             4
+ what you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ oh what                             4
+ you you                             4
+ let you                             4
+ the I'm                             4
+ my I                             4
+ you me like you                             4
+ me like you                             4
+ you me like you                             4
+ me like you                             4
+ me like you                             4
+ oh what                             4
+ you me like you                             4
+ me like you                             4
+ you me like you                             4
+ me like you                             4
+ me like you                             4
+ oh what                             4
+
+
+ I'm sing and play                             5
+ and I'm                             5
+ play a                             5
+ that you                             5
+ know you                             5
+ know the                             5
+ you're the                             5
+ the my                             5
+ the you're the pain                             5
+ the I                             5
+ that it could                             5
+ so much, so                             5
+ the I don't                             5
+ I've never been so                             5
+ me the                             5
+ me you                             5
+ You see the                             5
+ you to                             5
+ to So love me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ the your                             5
+ a I've gotta                             5
+ you my                             5
+ on on                             5
+ Yeah, let you                             5
+ the I'm                             5
+ I see                             5
+ no you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ you you                             5
+ let you                             5
+ the 'cause I'm                             5
+ my I                             5
+ see no                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ love me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ me you                             5
+ me you                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+
+
+             Similarity Index=26.4848 %
+Source 1	=8.55574%
+Source 2	=38.3823%
+Source 3	=38.2466%
+Source 4	=41.7043%
+Source 5	=34.8006%
+
+
+number of similar phrases/clauses                3959
+similar phrases/clauses                    sourcefile
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+ I'm just                             1
+ and and I'm                             1
+ a that you may know                             1
+ you may know                             1
+ the the night                             1
+ the of my                             1
+ the the                             1
+ the I                             1
+ that it                             1
+ so so much                             1
+ the I don't                             1
+ so me                             1
+ the me                             1
+ you our                             1
+ You can                             1
+ the you                             1
+ to to                             1
+ So love me like you                             1
+ me like you do                             1
+ me like you                             1
+ me like you do                             1
+ me like you                             1
+ me like you do                             1
+ are you                             1
+ out the                             1
+ of Every                             1
+ of your                             1
+ is a                             1
+ find you can                             1
+ my heart on                             1
+ on I'll let you                             1
+ the I'm not                             1
+ I are you                             1
+ me like you                             1
+ me like you do                             1
+ me like you                             1
+ me like you do                             1
+ me like you                             1
+ me like you                             1
+ are are you                             1
+ are you                             1
+ I'll let you                             1
+ the I'm not                             1
+ my I                             1
+ are you                             1
+ me like you                             1
+ me like you do                             1
+ you love me like you do                             1
+ me like you                             1
+ me like you                             1
+ are you                             1
+ me like you                             1
+ me like you do                             1
+ you me like you do                             1
+ me like you                             1
+ me like you                             1
+ are are you                             1
+ Similarity % Source 1                             1
+ Source 2                             1
+ Source 3                             1
+ Source 4                             1
+ Source 5                             1
+ number of similar phrases/clauses                             1
+ similar phrases/clauses sourcefile ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, I'm just                             1
+ 1 and and I'm                             1
+ 1 a                             1
+ that you 1 know you 1 know the 1 the the 1 of my 1 the the 1 the                             1
+ I 1 that it 1 the I 1 me                             1
+ the 1 me you 1 You can                             1
+ the 1 you to 1 to me like you 1 me like you 1 me like you 1 me like you 1 me like you 1 me like you 1 you the 1 of of your 1 is a 1 you can 1 my on 1 on I'll 1 you the 1 I'm I 1                             1
+ 1 you me like you 1 me like you 1 me like you 1 me like you 1 me like you 1 me like you 1 you you 1 I'll you 1 the                             1
+ I'm 1 my I 1                             1
+ 1 you me like you 1 me like you 1 you me like you 1 me like you 1 me like you 1 you me like you 1 me like you 1 you me like you 1 me like you 1 me like you 1 I'm just 2 and and I'm 2 a that you may know 2 you may know 2 the the night 2 the of my 2 the the 2 the I 2 that it 2 so so much 2 the I don't 2 so me 2 the me 2 you our 2 You can 2 the you 2 to to 2 So love me like you 2 me like you do 2 me like you 2 me like you do 2 me like you 2 me like you do 2 are you 2 out the 2 of Every 2 of your 2 is a 2 find you can 2 my heart on 2 on I'll let you 2 the I'm not 2 I are you 2 me like you 2 me like you do 2 me like you 2 me like you do 2 me like you 2 me like you 2 are are you 2 are you 2 I'll let you 2 the I'm not 2 my I 2 are you 2 me like you 2 me like you do 2 you love me like you do 2 me like you 2 me like you 2 are you 2 me like you 2 me like you do 2 you me like you do 2 me like you 2 me like you 2 are are you 2 I'm just 3 I'm that you 3 know you 3 know                             1
+ the 3                             1
+ the 3                             1
+ the 3 of my 3                             1
+ the 3                             1
+ the 3                             1
+ the 3 I                             1
+ that 3                             1
+ the 3 I don't 3                             1
+ 3 me the 3 me you 3 You the 3 you to 3 to me 3 you me 3 you me 3 you me 3 you me 3 you me 3 you                             1
+ are you 3 the of 3 of is 3 you my heart on 3 on                             1
+ 3 you the 3                             1
+ I'm not                             1
+ 3 I                             1
+ are you 3 me you 3 me you 3 me you 3 me you 3 me you 3 me you 3                             1
+ are are you 3                             1
+ are you 3 you the 3 I'm not                             1
+ 3 my I 3                             1
+ are you 3 me you 3 me you 3 you me 3 you me 3 you me 3 you                             1
+ 3 are you 3 me you 3 me you 3 you me 3 you me 3 you me 3 you                             1
+ are are you 3 I'm and 4 and I'm 4 a that you 4                             1
+ you 4                             1
+ the 4 the                             1
+ the 4 of my                             1
+ the 4 the                             1
+ the 4 I that it                             1
+ 4 the 4 I                             1
+ 4 me                             1
+ the 4 me you 4 You the 4 you to                             1
+ to 4 me like you 4 me like you 4 me like you 4 me like you 4 me like you 4 me like you 4 you the 4 of of your 4 a you 4 my                             1
+ 4 let you 4 the I'm 4                             1
+ I 4                             1
+ you 4 me like you 4 me like you 4 me like you 4 me like you 4 me like you 4 me like you 4                             1
+ 4 you you 4 let you 4 the I'm 4 my I 4 you me like you 4 me like you 4 you me like you 4 me like you 4 me like you 4                             1
+ 4 you me like you 4 me like you 4 you me like you 4 me like you 4 me like you 4                             1
+ 4 I'm                             1
+ and 5 and I'm 5                             1
+ a 5 that you 5 know you 5 know the 5                             1
+ the 5 the my 5 the                             1
+ the 5 the I 5 that it                             1
+ 5 so                             1
+ so 5 the I don't 5                             1
+ so 5 me the 5 me you 5 You                             1
+ the 5 you to 5 to So love me 5 you me 5 you me 5 you me 5 you me 5 you me 5 you you 5 the your 5 a                             1
+ 5 you my 5 on on 5                             1
+ let you 5 the I'm 5 I                             1
+ 5 you 5 me you 5 me you 5 me you 5 me you 5 me you 5 me you 5 you you 5 let you 5 the                             1
+ I'm 5 my I 5                             1
+
+
+ I'm just gonna                             2
+ and and I'm gonna                             2
+ a song that you                             2
+ know you                             2
+ know the                             2
+ the the                             2
+ of my                             2
+ the the                             2
+ the thing I                             2
+ that it                             2
+ the I                             2
+ me through the                             2
+ me you                             2
+ You can see the                             2
+ you to                             2
+ to me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ you the                             2
+ of of your                             2
+ is a                             2
+ you can                             2
+ my on                             2
+ on I'll                             2
+ you the                             2
+ I'm I                             2
+ see no more                             2
+ you me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ you you                             2
+ I'll you                             2
+ the 'cause I'm                             2
+ my I                             2
+ see no more                             2
+ you me like you                             2
+ me like you                             2
+ you me like you                             2
+ me like you                             2
+ me like you                             2
+ you me like you                             2
+ me like you                             2
+ you me like you                             2
+ me like you                             2
+ me like you                             2
+ you of                             2
+ I'm just gonna                             2
+ and and I'm gonna                             2
+ a song that you                             2
+ know you                             2
+ know the                             2
+ the the                             2
+ of my                             2
+ the the                             2
+ the thing I                             2
+ that it                             2
+ the I                             2
+ me through the                             2
+ me you                             2
+ You can see the                             2
+ you to                             2
+ to me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ you the                             2
+ of of your                             2
+ is a                             2
+ you can                             2
+ my on                             2
+ on I'll                             2
+ you the                             2
+ I'm I                             2
+ see no more                             2
+ you me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ you you                             2
+ I'll you                             2
+ the 'cause I'm                             2
+ my I                             2
+ see no more                             2
+ you me like you                             2
+ me like you                             2
+ you me like you                             2
+ me like you                             2
+ me like you                             2
+ you me like you                             2
+ me like you                             2
+ you me like you                             2
+ me like you                             2
+ me like you                             2
+ I'm just                             2
+ and and I'm                             2
+ a that you                             2
+ know you                             2
+ know the the                             2
+ the of my                             2
+ the the                             2
+ the I                             2
+ that it                             2
+ the I                             2
+ me the me                             2
+ you You can                             2
+ the you                             2
+ to to                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ you the                             2
+ of of your                             2
+ is a                             2
+ you can                             2
+ my on                             2
+ on I'll                             2
+ you the I'm                             2
+ I you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ you you                             2
+ I'll you                             2
+ the I'm                             2
+ my I                             2
+ you me like you                             2
+ me like you                             2
+ you me like you                             2
+ me like you                             2
+ me like you                             2
+ you me like you                             2
+ me like you                             2
+ you me like you                             2
+ me like you                             2
+ me like you                             2
+ you I'm just                             2
+ I'm that you                             2
+ know you                             2
+ know the                             2
+ the the                             2
+ of my                             2
+ the the                             2
+ the I                             2
+ that the                             2
+ I me the                             2
+ me you                             2
+ You the                             2
+ you to                             2
+ to me                             2
+ you me                             2
+ you me                             2
+ you me                             2
+ you me                             2
+ you me                             2
+ you you                             2
+ the of                             2
+ of is                             2
+ you my                             2
+ on on                             2
+ you the                             2
+ I'm I                             2
+ you me you                             2
+ me you                             2
+ me you                             2
+ me you                             2
+ me you                             2
+ me you                             2
+ you you                             2
+ you the                             2
+ I'm my I                             2
+ you me you                             2
+ me you                             2
+ you me                             2
+ you me                             2
+ you me                             2
+ you you                             2
+ me you                             2
+ me you                             2
+ you me                             2
+ you me                             2
+ you me                             2
+ you you                             2
+ I'm and                             2
+ and I'm                             2
+ a that you                             2
+ you the                             2
+ the the                             2
+ of my                             2
+ the the                             2
+ the I that it                             2
+ the I                             2
+ me through the                             2
+ me you                             2
+ You the                             2
+ you to                             2
+ to me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ you the                             2
+ of of your                             2
+ a you                             2
+ my you                             2
+ the I'm                             2
+ I you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ me like you                             2
+ you you                             2
+ you the I'm                             2
+ my I                             2
+ you me like you                             2
+ me like you                             2
+ you me like you                             2
+ me like you                             2
+ me like you                             2
+ you me like you                             2
+ me like you                             2
+ you me like you                             2
+ me like you                             2
+ me like you                             2
+ I'm and                             2
+ and I'm                             2
+ a that you                             2
+ know you                             2
+ know the                             2
+ the the my                             2
+ the the                             2
+ the I                             2
+ that it                             2
+ the I                             2
+ me the                             2
+ me you                             2
+ You see the                             2
+ you to                             2
+ to me                             2
+ you me                             2
+ you me                             2
+ you me                             2
+ you me                             2
+ you me                             2
+ you you                             2
+ the your                             2
+ a you my                             2
+ on on                             2
+ you the I'm                             2
+ I see                             2
+ no you                             2
+ me you                             2
+ me you                             2
+ me you                             2
+ me you                             2
+ me you                             2
+ me you                             2
+ you you                             2
+ you the 'cause I'm                             2
+ my I                             2
+ see no                             2
+ you me                             2
+ you me                             2
+ you you                             2
+ me you me                             2
+ you me                             2
+ you you                             2
+ me you                             2
+ me you                             2
+ you me                             2
+ you me                             2
+ you me                             2
+ you you                             2
+
+
+ I'm just                             3
+ I'm that you                             3
+ know you                             3
+ know You're the                             3
+ you're the                             3
+ You're the                             3
+ of my                             3
+ You're the                             3
+ you're the                             3
+ You're the                             3
+ I knew that                             3
+ You're the                             3
+ I don't                             3
+ 'Cause never been                             3
+ me the                             3
+ me you                             3
+ You the                             3
+ you to                             3
+ to me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you What are you                             3
+ the of                             3
+ of is                             3
+ you my heart on                             3
+ on Yeah,                             3
+ you the                             3
+ 'Cause I'm not thinking                             3
+ I what are you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ oh What are you, what are you                             3
+ What are you                             3
+ you the                             3
+ I'm not thinking                             3
+ my I                             3
+ What are you                             3
+ me you                             3
+ me you                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you oh                             3
+ what are you                             3
+ me you                             3
+ me you                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you oh What are you, what are you                             3
+ of I'm just                             3
+ I'm that you                             3
+ know you                             3
+ know the                             3
+ the the                             3
+ of my                             3
+ the the                             3
+ the I                             3
+ that the I                             3
+ me the                             3
+ me you                             3
+ You the                             3
+ you to                             3
+ to me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you you the                             3
+ of of                             3
+ is you                             3
+ my on                             3
+ on you the                             3
+ I'm I                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you you you                             3
+ you the                             3
+ I'm my I                             3
+ you me                             3
+ you me                             3
+ you you me                             3
+ you me                             3
+ you me                             3
+ you you me                             3
+ you me                             3
+ you you me                             3
+ you me                             3
+ you me                             3
+ you I'm just                             3
+ I'm that you                             3
+ know you                             3
+ know the the                             3
+ the of my                             3
+ the the                             3
+ the I                             3
+ that the I don't                             3
+ me the me                             3
+ you You                             3
+ the you                             3
+ to to                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ are you                             3
+ the of                             3
+ of is                             3
+ you my heart on                             3
+ on you                             3
+ the I'm not                             3
+ I are you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ are are you                             3
+ are you                             3
+ you the I'm not                             3
+ my I                             3
+ are you                             3
+ me you                             3
+ me you                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you are you                             3
+ me you                             3
+ me you                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you are are you                             3
+ I'm just                             3
+ I'm that you                             3
+ know you                             3
+ know You're the                             3
+ you're the                             3
+ You're the                             3
+ of my                             3
+ You're the                             3
+ you're the                             3
+ You're the                             3
+ I knew that                             3
+ You're the                             3
+ I don't                             3
+ 'Cause never been                             3
+ me the                             3
+ me you                             3
+ You the                             3
+ you to                             3
+ to me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you What are you                             3
+ the of                             3
+ of is                             3
+ you my heart on                             3
+ on Yeah,                             3
+ you the                             3
+ 'Cause I'm not thinking                             3
+ I what are you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ oh What are you, what are you                             3
+ What are you                             3
+ you the                             3
+ I'm not thinking                             3
+ my I                             3
+ What are you                             3
+ me you                             3
+ me you                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you oh                             3
+ what are you                             3
+ me you                             3
+ me you                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you oh What are you, what are you                             3
+ I'm I'm                             3
+ that you                             3
+ you You're the                             3
+ the You're the                             3
+ of my                             3
+ You're the                             3
+ the You're the                             3
+ I that                             3
+ You're the                             3
+ I never                             3
+ me the                             3
+ me you                             3
+ You the                             3
+ you to                             3
+ to me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you you the                             3
+ of of                             3
+ you my                             3
+ you the I'm                             3
+ I what you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ oh what                             3
+ you you                             3
+ you the I'm                             3
+ my I                             3
+ you me                             3
+ you me                             3
+ you you me                             3
+ you me                             3
+ you me                             3
+ you oh what                             3
+ you me                             3
+ you me                             3
+ you you me                             3
+ you me                             3
+ you me                             3
+ you oh what                             3
+ I'm I'm                             3
+ that you                             3
+ know you                             3
+ know the                             3
+ you're the                             3
+ the my                             3
+ the you're the                             3
+ the I                             3
+ that the I don't                             3
+ never been                             3
+ me the                             3
+ me you                             3
+ You the                             3
+ you to                             3
+ to me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you you                             3
+ the you my                             3
+ on on                             3
+ Yeah, you                             3
+ the I'm                             3
+ I you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ me you                             3
+ you you                             3
+ you the                             3
+ I'm my I                             3
+ you me                             3
+ you me                             3
+ you you                             3
+ me you me                             3
+ you me                             3
+ you you                             3
+ me you                             3
+ me you                             3
+ you me                             3
+ you me                             3
+ you me                             3
+ you you                             3
+
+
+ I'm and                             4
+ and I'm                             4
+ a that you                             4
+ That you                             4
+ You're the                             4
+ the You're the                             4
+ of my blood You're the                             4
+ the pain You're the                             4
+ I that it could                             4
+ You're the                             4
+ I never                             4
+ me through the                             4
+ me you                             4
+ You the                             4
+ you to life, to                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ you the                             4
+ of of your                             4
+ a you                             4
+ my fire                             4
+ let you                             4
+ the I'm                             4
+ My I                             4
+ what you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ oh what                             4
+ you you                             4
+ let you                             4
+ the I'm                             4
+ my I                             4
+ you me like you                             4
+ me like you                             4
+ you me like you                             4
+ me like you                             4
+ me like you                             4
+ oh what                             4
+ you me like you                             4
+ me like you                             4
+ you me like you                             4
+ me like you                             4
+ me like you                             4
+ oh what                             4
+ you of                             4
+ I'm and and I'm                             4
+ a that you                             4
+ you the                             4
+ the the                             4
+ of my                             4
+ the the                             4
+ the I                             4
+ that it                             4
+ the I                             4
+ me through the                             4
+ me you                             4
+ You the                             4
+ you to                             4
+ to me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ you the                             4
+ of of your                             4
+ a you                             4
+ my you the                             4
+ I'm I                             4
+ you me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ you you                             4
+ you the                             4
+ I'm my I                             4
+ you me like you                             4
+ me like you                             4
+ you me like you                             4
+ me like you                             4
+ me like you                             4
+ you me like you                             4
+ me like you                             4
+ you me like you                             4
+ me like you                             4
+ me like you                             4
+ I'm and and I'm                             4
+ a that you                             4
+ you the the                             4
+ the of my                             4
+ the the                             4
+ the I                             4
+ that it                             4
+ the I                             4
+ me the me                             4
+ you You                             4
+ the you                             4
+ to to                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ you the                             4
+ of of your                             4
+ a you                             4
+ my let you                             4
+ the I'm                             4
+ I you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ you you                             4
+ let you                             4
+ the I'm                             4
+ my I                             4
+ you me like you                             4
+ me like you                             4
+ you me like you                             4
+ me like you                             4
+ me like you                             4
+ you me like you                             4
+ me like you                             4
+ you me like you                             4
+ me like you                             4
+ me like you                             4
+ you I'm                             4
+ I'm that you                             4
+ you You're the                             4
+ the You're the                             4
+ of my                             4
+ You're the                             4
+ the You're the                             4
+ I that                             4
+ You're the                             4
+ I never                             4
+ me the                             4
+ me you                             4
+ You the                             4
+ you to                             4
+ to me                             4
+ you me                             4
+ you me                             4
+ you me                             4
+ you me                             4
+ you me                             4
+ you you                             4
+ the of                             4
+ of you my                             4
+ you the                             4
+ I'm I what                             4
+ you me you                             4
+ me you                             4
+ me you                             4
+ me you                             4
+ me you                             4
+ me you                             4
+ oh what                             4
+ you you                             4
+ you the                             4
+ I'm my I                             4
+ you me you                             4
+ me you                             4
+ you me                             4
+ you me                             4
+ you me                             4
+ you oh                             4
+ what you                             4
+ me you                             4
+ me you                             4
+ you me                             4
+ you me                             4
+ you me                             4
+ you oh                             4
+ what you                             4
+ I'm and                             4
+ and I'm                             4
+ a that you                             4
+ That you                             4
+ You're the                             4
+ the You're the                             4
+ of my blood You're the                             4
+ the pain You're the                             4
+ I that it could                             4
+ You're the                             4
+ I never                             4
+ me through the                             4
+ me you                             4
+ You the                             4
+ you to life, to                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ you the                             4
+ of of your                             4
+ a you                             4
+ my fire                             4
+ let you                             4
+ the I'm                             4
+ My I                             4
+ what you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ me like you                             4
+ oh what                             4
+ you you                             4
+ let you                             4
+ the I'm                             4
+ my I                             4
+ you me like you                             4
+ me like you                             4
+ you me like you                             4
+ me like you                             4
+ me like you                             4
+ oh what                             4
+ you me like you                             4
+ me like you                             4
+ you me like you                             4
+ me like you                             4
+ me like you                             4
+ oh what                             4
+ I'm and                             4
+ and I'm                             4
+ a that you                             4
+ you the                             4
+ the the my                             4
+ the the pain                             4
+ the I                             4
+ that it could                             4
+ the I                             4
+ never me the                             4
+ me you                             4
+ You the                             4
+ you to                             4
+ to me                             4
+ you me                             4
+ you me                             4
+ you me                             4
+ you me                             4
+ you me                             4
+ you you                             4
+ the your                             4
+ a you my                             4
+ let you                             4
+ the I'm                             4
+ I you                             4
+ me you                             4
+ me you                             4
+ me you                             4
+ me you                             4
+ me you                             4
+ me you                             4
+ you you                             4
+ let you                             4
+ the I'm                             4
+ my I                             4
+ you me                             4
+ you me                             4
+ you you                             4
+ me you me                             4
+ you me                             4
+ you you                             4
+ me you                             4
+ me you                             4
+ you me                             4
+ you me                             4
+ you me                             4
+ you you                             4
+
+
+ I'm sing and play                             5
+ and I'm                             5
+ play a                             5
+ that you                             5
+ know you                             5
+ know the                             5
+ you're the                             5
+ the my                             5
+ the you're the pain                             5
+ the I                             5
+ that it could                             5
+ so much, so                             5
+ the I don't                             5
+ I've never been so                             5
+ me the                             5
+ me you                             5
+ You see the                             5
+ you to                             5
+ to So love me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ the your                             5
+ a I've gotta                             5
+ you my                             5
+ on on                             5
+ Yeah, let you                             5
+ the I'm                             5
+ I see                             5
+ no you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ you you                             5
+ let you                             5
+ the 'cause I'm                             5
+ my I                             5
+ see no                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ love me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ me you                             5
+ me you                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ I'm and and I'm                             5
+ a that you                             5
+ know you                             5
+ know the                             5
+ the the                             5
+ my the the                             5
+ the I                             5
+ that it                             5
+ the I                             5
+ me the                             5
+ me you                             5
+ You see the                             5
+ you to                             5
+ to me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you the                             5
+ your a                             5
+ you my on                             5
+ on you the                             5
+ I'm I                             5
+ see no                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you you                             5
+ you the 'cause I'm                             5
+ my I                             5
+ see no                             5
+ you me                             5
+ you me                             5
+ you you me                             5
+ you me                             5
+ you me                             5
+ you you me                             5
+ you me                             5
+ you you me                             5
+ you me                             5
+ you me                             5
+ you I'm                             5
+ and and I'm                             5
+ a that you                             5
+ know you                             5
+ know the the                             5
+ the my                             5
+ the the                             5
+ the I                             5
+ that it                             5
+ so so                             5
+ the I don't                             5
+ so me                             5
+ the me                             5
+ you You                             5
+ the you                             5
+ to to                             5
+ So love me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ the your                             5
+ a you                             5
+ my on                             5
+ on let you                             5
+ the I'm                             5
+ I you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ you you                             5
+ let you                             5
+ the I'm                             5
+ my I                             5
+ you me                             5
+ you me                             5
+ you you love me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ me you                             5
+ me you                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ I'm I'm that you                             5
+ know you                             5
+ know the                             5
+ you're the                             5
+ the my                             5
+ the you're the                             5
+ the I                             5
+ that the                             5
+ I don't                             5
+ never been                             5
+ me the                             5
+ me you                             5
+ You the                             5
+ you to                             5
+ to me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ the you my                             5
+ on on Yeah,                             5
+ you the                             5
+ I'm I                             5
+ you me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ you you                             5
+ you the                             5
+ I'm my I                             5
+ you me you                             5
+ me you                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ me you                             5
+ me you                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ I'm and                             5
+ and I'm                             5
+ a that you                             5
+ you the                             5
+ the the                             5
+ my the                             5
+ the pain                             5
+ the I that it could                             5
+ the I never                             5
+ me the                             5
+ me you                             5
+ You the                             5
+ you to                             5
+ to me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you the                             5
+ your a you                             5
+ my let you                             5
+ the I'm                             5
+ I you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ you you                             5
+ let you                             5
+ the I'm                             5
+ my I                             5
+ you me                             5
+ you me                             5
+ you you me                             5
+ you me                             5
+ you me                             5
+ you you me                             5
+ you me                             5
+ you you me                             5
+ you me                             5
+ you me                             5
+ you I'm sing and play                             5
+ and I'm                             5
+ play a                             5
+ that you                             5
+ know you                             5
+ know the                             5
+ you're the                             5
+ the my                             5
+ the you're the pain                             5
+ the I                             5
+ that it could                             5
+ so much, so                             5
+ the I don't                             5
+ I've never been so                             5
+ me the                             5
+ me you                             5
+ You see the                             5
+ you to                             5
+ to So love me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ the your                             5
+ a I've gotta                             5
+ you my                             5
+ on on                             5
+ Yeah, let you                             5
+ the I'm                             5
+ I see                             5
+ no you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ me you                             5
+ you you                             5
+ let you                             5
+ the 'cause I'm                             5
+ my I                             5
+ see no                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ love me                             5
+ you me                             5
+ you me                             5
+ you you                             5
+ me you                             5
+ me you                             5
+ you me                             5
+ you me                             5
+ you me                             5
+ you you                             5
